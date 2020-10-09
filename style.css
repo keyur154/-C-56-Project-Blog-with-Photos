@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+div {
+    margin-top: 25px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin: 20px;
+    background-color: crimson;
+}
+
+p {
+    color: yellow;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+img {
+    width: 40%;
+}
+
+#para {
+    color: crimson;
+}
+
+h1 {
+    color: darkblue;
+    font-weight: bold;
+    font-family: cursive;
+    font-variant: small-caps;
+}
